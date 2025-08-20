@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aditya Kumar
 
-🎓 I’m a 2nd year B.Sc. Computer Science and Data Analytics student at **IIT Patna**, with a deep interest in **Machine Learning**, **Deep Learning**, and building solutions that create real-world impact.
+🎓 I’m a 3rd year B.Sc. Computer Science and Data Analytics student at **IIT Patna**, with a deep interest in **Machine Learning**, **Deep Learning**, and building solutions that create real-world impact.
 
 ---
 
